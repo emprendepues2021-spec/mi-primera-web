@@ -80,3 +80,23 @@ header {
 .github-btn:hover {
     opacity: 0.85;
 }
+.foto-perfil {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 20px auto;
+}
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.skills span {
+    background: #007aff;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 20px;
+}
