@@ -62,3 +62,21 @@ section p,
 section li {
     line-height: 1.5;
 }
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.github-btn {
+    display: inline-block;
+    background-color: #24292e;
+    color: white;
+    text-decoration: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.github-btn:hover {
+    opacity: 0.85;
+}
